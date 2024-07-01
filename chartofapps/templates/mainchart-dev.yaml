@@ -37,7 +37,7 @@ spec:
   project: mainchart-project
   source:
     path: mainchart
-    repoURL: https://github.com/gopaljayanthi/helm-charts.git
+    repoURL: https://github.com/opsmx/wisetech-helm-charts.git
     targetRevision: HEAD
   syncPolicy:
     automated: {}

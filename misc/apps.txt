@@ -1,5 +1,0 @@
-chartofapps-app1
-chartofapps-app2
-chartofapps-app3
-jumbalakari
-chartofapps-app4
