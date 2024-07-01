@@ -5,7 +5,7 @@ metadata:
     argocd-image-updater.argoproj.io/write-back-method: git:secret:argocd/git-creds
     argocd-image-updater.argoproj.io/git-branch: master
 
-    argocd-image-updater.argoproj.io/image-list: app1=docker.io/gopalvithaljayanthi/nginx,app2=docker.io/gopalvithaljayanthi/nginx,app3=docker.io/gopalvithaljayanthi/nginx,app4=docker.io/gopalvithaljayanthi/nginx
+    argocd-image-updater.argoproj.io/image-list: app1=gcr.io/ninja-project-338811/nginx,app2=gcr.io/ninja-project-338811/nginx,app3=gcr.io/ninja-project-338811/nginx,app4=gcr.io/ninja-project-338811/nginx
     argocd-image-updater.argoproj.io/app1.allow-tags: regexp:^mybranch
     argocd-image-updater.argoproj.io/app1.update-strategy: latest
     argocd-image-updater.argoproj.io/app1.helm.image-name: app1.image.name

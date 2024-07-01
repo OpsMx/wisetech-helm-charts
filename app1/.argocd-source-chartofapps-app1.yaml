@@ -1,7 +1,7 @@
 helm:
   parameters:
   - name: image.name
-    value: docker.io/gopalvithaljayanthi/nginx
+    value: gcr.io/ninja-project-338811/nginx
     forcestring: true
   - name: image.tag
     value: mybranch-1276
