@@ -4,23 +4,23 @@ helm:
     value: gcr.io/ninja-project-338811/nginx
     forcestring: true
   - name: app1.image.tag
-    value: mytag-1281
+    value: mytag-1286
     forcestring: true
   - name: app2.image.name
     value: gcr.io/ninja-project-338811/nginx
     forcestring: true
   - name: app2.image.tag
-    value: mytag-1281
+    value: mytag-1286
     forcestring: true
   - name: app3.image.name
     value: gcr.io/ninja-project-338811/nginx
     forcestring: true
   - name: app3.image.tag
-    value: mytag-1281
+    value: mytag-1286
     forcestring: true
   - name: app4.image.name
     value: gcr.io/ninja-project-338811/nginx
     forcestring: true
   - name: app4.image.tag
-    value: mytag-1281
+    value: mytag-1286
     forcestring: true
